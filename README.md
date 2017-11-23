@@ -22,6 +22,7 @@ The rules for determining the winner are as follows:
 - Spock vaporizes Rock
 - Rock crushes Scissors
 
+![diagram](http://i0.kym-cdn.com/photos/images/newsfeed/000/521/596/ff1.jpg)
 
 ## Basic Mode
 
